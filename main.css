@@ -1,0 +1,15 @@
+p {
+    font-size: 20px
+  }
+  .box {
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 15px;
+  }
+  a {
+    color: blue;
+  }
+  .empty {
+    font-size: 0px;
+  }
