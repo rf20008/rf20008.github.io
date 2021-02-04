@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+  <title>Redirect | rf20008.github.io</title>
+</head>
+<body style="background-color: #39F090">
+<script>
+const queryString = window.location.search;
+console.log(queryString);
+const urlParams =  new URLSearchParams(queryString);
+const input = urlParams.get("url");
+window.location.href = urlParams.get("url");
+</script>
+</body>
+<p>You should be redirected in a few secoonds!</p>
+</html>
