@@ -93,4 +93,16 @@
     <changefreq>idk</changefreq>
     <priority>idk</priority>
   </url>
+  <url>
+    <loc>https://rf20008.github.io/fun/</loc>
+    <lastmod>2-3-2021</lastmod>
+    <changefreq>idk</changefreq>
+    <priority>idk</priority>
+  </url>
+  <url>
+    <loc>https://rf20008.github.io/fun/TicTacToeAttempt.py</loc>
+    <lastmod>2-3-2021</lastmod>
+    <changefreq>idk</changefreq>
+    <priority>Don't access!</priority>
+  </url>
 </urlset>
